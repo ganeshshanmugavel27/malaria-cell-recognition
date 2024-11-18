@@ -219,19 +219,19 @@ plt.show()
 Name: GANESH S.
 Register Number: 212222040042
 # OUTPUT
-Training Loss, Validation Loss Vs Iteration Plot
+# Training Loss, Validation Loss Vs Iteration Plot
 ![Screenshot 2024-11-18 160601](https://github.com/user-attachments/assets/02fdfe15-e967-4a07-a927-75b43ec916d4)
 
 
-Classification Report
+# Classification Report
 ![Screenshot 2024-11-18 160629](https://github.com/user-attachments/assets/a5efd1a0-646b-455f-b698-d69fe0fa48a2)
 
 
-Confusion Matrix
+# Confusion Matrix
 ![Screenshot 2024-11-18 160651](https://github.com/user-attachments/assets/73a8b5c0-ac1d-4cab-bc4b-1635eea04ac6)
 
 
-New Sample Data Prediction
+# New Sample Data Prediction
 ![Screenshot 2024-11-18 163600](https://github.com/user-attachments/assets/d0c45449-0ac1-4f4a-9684-90d6ec240f06)
 
 # RESULT
